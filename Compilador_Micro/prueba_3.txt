@@ -1,0 +1,3 @@
+inicio
+int h := "Soy un compilador";
+fin
