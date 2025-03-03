@@ -1,0 +1,5 @@
+inicio
+int h := 3;
+int p := 2 + h - (5 + h);
+escribir(p);
+fin

@@ -1,0 +1,6 @@
+inicio
+int h;
+string p;
+leer(p,h);
+escribir(-(h + 11), p);
+fin
