@@ -1,0 +1,17 @@
+# Archivos y carpetas de IntelliJ
+.idea/
+*.iml
+
+# Maven build output
+target/
+
+# Archivos temporales y de sistema
+*.log
+*.swp
+*.tmp
+.DS_Store
+Thumbs.db
+
+# Git
+.git
+.gitignore

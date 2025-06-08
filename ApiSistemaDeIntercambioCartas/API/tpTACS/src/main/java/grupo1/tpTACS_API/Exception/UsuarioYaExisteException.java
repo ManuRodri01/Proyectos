@@ -1,7 +1,0 @@
-package grupo1.tpTACS_API.Exception;
-
-public class UsuarioYaExisteException extends RuntimeException {
-    public UsuarioYaExisteException(String nombreUsuario) {
-        super("El nombre de usuario '" + nombreUsuario + "' ya está en uso.");
-    }
-}
